@@ -46,7 +46,7 @@ You must have Docker Installed in your System ! Docker version >= 20.10.x & Dock
 
 ### Virtual Host
 
-1. [WordPress (http://www.wordpress.test)](http://www.wordpress.test 'WordPress')
+1. [Magento (http://www.magento.test)](http://www.magento.test 'Magento')
 
 **Dont Forget to Add it to your Host File**
 
