@@ -36,10 +36,6 @@ You must have Docker Installed in your System ! Docker version >= 20.10.x & Dock
 
 `$ docker exec -it lampp-php7.3 bash`
 
-### Docker Laravel Commands
-
-`$ php artisan serve --host=www.laravel.test --port=8000`
-
 ![Logo](docs/docker_bash.png)
 
 ### Url Links
